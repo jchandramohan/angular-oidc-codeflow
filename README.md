@@ -2,6 +2,16 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.4.
 
+# Dependencies
+
+This project is depending on [Angular OAuth2 OIDC Codeflow](https://www.npmjs.com/package/angular-oauth2-oidc-codeflow)
+Version: 4.0.1.
+Command: npm i angular-oauth2-oidc-codeflow --save
+
+Another dependency is [Angular OAuth2 OIDC](https://www.npmjs.com/package/angular-oauth2-oidc)
+Version: 3.1
+Command: npm i angular-oauth2-oidc@3.1 --save
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
